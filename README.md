@@ -1,7 +1,7 @@
 # BigNumber.py
 
 BigNumber.py is a Python library for handling extremely large numbers using layers, pentation and hexation.
-The current version is 1.0.4, download ```BigNumber version 1.0.4.py```.
+The current version is 1.0.5, download ```BigNumber version 1.0.5.py```.
 
 ## Features
 
