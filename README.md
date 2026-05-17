@@ -10,6 +10,11 @@ Download:
 BigNumber version 1.0.6.py
 ```
 
+The limit is:
+```text
+10{1e308}1e308
+```
+
 ---
 
 # Features
@@ -116,7 +121,7 @@ print(a.tostring())
 Output:
 
 ```text
-10{5}(0)
+10{5}0
 ```
 
 ---
@@ -278,7 +283,7 @@ while True:
 | Layer | `ee10` |
 | Pentation | `G5(3)` |
 | Hexation | `H2(10)` |
-| Hyperoperations | `10{5}(3)` |
+| Hyperoperations | `10{5}3` |
 
 ---
 
@@ -290,7 +295,7 @@ while True:
 | Layer | `ee308` |
 | Pentation | `G308(308)` |
 | Hexation | `H308(308)` |
-| Hyperoperation | `10{1000000}(1000000)` |
+| Hyperoperation | `10{1000000}1000000` |
 
 ---
 
