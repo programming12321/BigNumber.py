@@ -194,7 +194,7 @@ while True:
 
     points = points.add(gain)
 
-    print(points)
+    print(points.tostring())
 ```
 
 ---
